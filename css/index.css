@@ -82,7 +82,7 @@ form .btn__input:hover{
     justify-items: center;
 }
 .container__div--login .icon__facebook{
-    background-image: url('./img/facebook.png');
+    background-image: url('././img/facebook.png');
     display: inline-block;
     width: 20px;
     height: 20px;
